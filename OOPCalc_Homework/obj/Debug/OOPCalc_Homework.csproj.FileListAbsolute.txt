@@ -1,0 +1,10 @@
+C:\Users\Asi\source\repos\OOPCalc_Homework\OOPCalc_Homework\bin\Debug\OOPCalc_Homework.exe.config
+C:\Users\Asi\source\repos\OOPCalc_Homework\OOPCalc_Homework\bin\Debug\OOPCalc_Homework.exe
+C:\Users\Asi\source\repos\OOPCalc_Homework\OOPCalc_Homework\bin\Debug\OOPCalc_Homework.pdb
+C:\Users\Asi\source\repos\OOPCalc_Homework\OOPCalc_Homework\obj\Debug\OOPCalc_Homework.csprojAssemblyReference.cache
+C:\Users\Asi\source\repos\OOPCalc_Homework\OOPCalc_Homework\obj\Debug\OOPCalc_Homework.Form1.resources
+C:\Users\Asi\source\repos\OOPCalc_Homework\OOPCalc_Homework\obj\Debug\OOPCalc_Homework.Properties.Resources.resources
+C:\Users\Asi\source\repos\OOPCalc_Homework\OOPCalc_Homework\obj\Debug\OOPCalc_Homework.csproj.GenerateResource.cache
+C:\Users\Asi\source\repos\OOPCalc_Homework\OOPCalc_Homework\obj\Debug\OOPCalc_Homework.csproj.CoreCompileInputs.cache
+C:\Users\Asi\source\repos\OOPCalc_Homework\OOPCalc_Homework\obj\Debug\OOPCalc_Homework.exe
+C:\Users\Asi\source\repos\OOPCalc_Homework\OOPCalc_Homework\obj\Debug\OOPCalc_Homework.pdb
