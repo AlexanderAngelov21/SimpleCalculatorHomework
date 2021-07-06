@@ -12,6 +12,7 @@ namespace OOPCalc_Homework
 {
     public partial class Form1 : Form
     {
+        //123
         double FirstNumber;
         string Operation;
         public Form1()
