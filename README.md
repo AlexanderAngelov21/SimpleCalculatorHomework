@@ -1,2 +1,0 @@
-# SimpleCalculatorHomework
-# Homework problem.
